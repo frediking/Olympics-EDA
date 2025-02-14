@@ -230,6 +230,7 @@ plt.ylabel("Number of Participants", fontsize=10, fontweight='bold')
 plt.grid(True, linestyle="--", alpha=0.5)
 plt.xticks(rotation=45, fontsize=8)
 plt.yticks(fontsize=8)
+plt.show()
 
 
 # In[79]:
