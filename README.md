@@ -1,7 +1,7 @@
 # **EDA Olympics**
 
 ## **Overview**  
-This project performs **Exploratory Data Analysis (EDA)** on the Olympic dataset sourced from **Kaggle** ([Dataset Link](https://www.kaggle.com/datasets/bhanupratapbiswas/olympic-data)). The dataset contains information on Olympic athletes, including their age, height, weight, sport, medals won, and more.  
+**Exploratory Data Analysis (EDA)** on the Olympic dataset sourced from **Kaggle** ([Dataset Link](https://www.kaggle.com/datasets/bhanupratapbiswas/olympic-data)). The dataset contains information on Olympic athletes, including their age, height, weight, sport, medals won, and more.  
 
 The goal of this project is to uncover key insights about the Olympics using **Python**, **Pandas**, **Seaborn**, and **Matplotlib**.
 
